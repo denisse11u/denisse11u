@@ -1,4 +1,5 @@
-<h1 align="center">Hola! 👋, Soy Denisse Crespo</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola!+%F0%9F%91%8B%2C+Soy+Denisse+Crespo)](https://git.io/typing-svg)
+
 <h3 align="center">Estudiante de Ingenieria en Software, en constante aprendizaje sobre diferentes lenguaje de programación</h3>
 
 - 🔭 Me gustaría colaborar en **Proyectos de frontend**
