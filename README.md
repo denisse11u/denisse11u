@@ -1,6 +1,14 @@
 <h1 align="center">Hola! 👋, Soy Denisse Crespo</h1>
 <h3 align="center">Estudiante de Ingenieria en Software, en constante aprendizaje sobre diferentes lenguaje de programación</h3>
 
+- 🔭 Me gustaría colaborar en **Proyectos de frontend**
+
+- 🤝 Busco ayuda con **Mejorar mis habilidades en JavaScript y diseño de interfaces**
+
+- 🌱 Actualmente estoy aprendiendo **HTML, CSS, SQL SERVER, Git**
+
+- 📫 Cómo contactarme **denisse17crespo@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
